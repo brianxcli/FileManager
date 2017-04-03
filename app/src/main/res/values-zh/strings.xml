@@ -1,4 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">And文件管理器</string>
+    <string name="app_name">文件管理器</string>
+
+    <!-- activity action menu -->
+    <string name="activity_action_menu_setting">设置</string>
+
+    <!-- activity tabs -->
+    <string name="activity_tab_categories">分类</string>
+    <string name="activity_tab_sdcard">SD卡</string>
+
+    <!-- category tab button titles -->
+    <string name="category_title_video">视频</string>
+    <string name="category_title_music">音乐</string>
+    <string name="category_title_zip">压缩包</string>
+    <string name="category_title_image">图片</string>
+    <string name="category_title_doc">文档</string>
+    <string name="category_title_bluetooth">蓝牙</string>
+    <string name="category_title_favorite">收藏</string>
+    <string name="category_title_usb">USB</string>
 </resources>

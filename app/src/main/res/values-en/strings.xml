@@ -1,4 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">AndFileManager</string>
+    <string name="app_name">FileManager</string>
+
+    <!-- activity action menu -->
+    <string name="activity_action_menu_setting">Settings</string>
+
+    <!-- activity tabs -->
+    <string name="activity_tab_categories">Categories</string>
+    <string name="activity_tab_sdcard">SD Card</string>
+
+    <!-- category tab button titles -->
+    <string name="category_title_video">Video</string>
+    <string name="category_title_music">Music</string>
+    <string name="category_title_zip">Zip</string>
+    <string name="category_title_image">Image</string>
+    <string name="category_title_doc">Doc</string>
+    <string name="category_title_bluetooth">BlueTooth</string>
+    <string name="category_title_favorite">Favorite</string>
+    <string name="category_title_usb">USB</string>
 </resources>
