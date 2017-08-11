@@ -1,4 +1,11 @@
 <resources>
     <dimen name="fab_margin">16dp</dimen>
     <dimen name="tab_title_padding_vertical">16dp</dimen>
+
+    <!-- ViewPager -->
+    <dimen name="main_pager_margin_horizontal">8dp</dimen>
+
+    <!-- SDCard tab -->
+    <dimen name="list_item_min_height">66dp</dimen>
+    <dimen name="list_item_margin">6dp</dimen>
 </resources>
